@@ -1,6 +1,6 @@
 {
    "name": "fastify-nodejs-application",
-   "version": "0.1.0",
+   "version": "0.1.1",
    "description": "Tasks Tracker",
    "main": "server/index.js",
    "scripts": {
