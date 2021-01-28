@@ -1,6 +1,6 @@
 module.exports = {
   translation: {
-    appName: 'Fastify Шаблон',
+    appName: 'Миури',
     flash: {
       session: {
         create: {
@@ -45,9 +45,9 @@ module.exports = {
       },
       welcome: {
         index: {
-          hello: 'Привет от Хекслета!',
-          description: 'Практические курсы по программированию',
-          more: 'Узнать Больше',
+          hello: 'Добро пожаловать в Миури',
+          description: 'Организуйте свои рабочие процессы и жизнь вместе с нами',
+          more: 'Начать',
         },
       },
     },
